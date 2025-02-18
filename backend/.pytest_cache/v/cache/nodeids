@@ -1,0 +1,21 @@
+[
+  "tests/integration/test_matching_pipeline.py::test_create_job_and_match",
+  "tests/integration/test_matching_pipeline.py::test_error_handling",
+  "tests/integration/test_matching_pipeline.py::test_get_match_explanation",
+  "tests/unit/test_batch_service.py::test_batch_size_respected",
+  "tests/unit/test_batch_service.py::test_process_batch_async",
+  "tests/unit/test_batch_service.py::test_process_batch_sync",
+  "tests/unit/test_cache_service.py::test_cache_clear",
+  "tests/unit/test_cache_service.py::test_cache_expiration",
+  "tests/unit/test_cache_service.py::test_cache_invalidate",
+  "tests/unit/test_cache_service.py::test_cache_set_get",
+  "tests/unit/test_extractors.py::test_extract_education",
+  "tests/unit/test_extractors.py::test_extract_education_level",
+  "tests/unit/test_extractors.py::test_extract_experience",
+  "tests/unit/test_extractors.py::test_extract_years_of_experience",
+  "tests/unit/test_parser_service.py::test_parse_job_requirements",
+  "tests/unit/test_parser_service.py::test_parse_resume_invalid_type",
+  "tests/unit/test_text_processor.py::test_calculate_similarity",
+  "tests/unit/test_text_processor.py::test_extract_skills",
+  "tests/unit/test_text_processor.py::test_preprocess_text"
+]
